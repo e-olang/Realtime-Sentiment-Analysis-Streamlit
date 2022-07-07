@@ -10,10 +10,10 @@ warnings.filterwarnings('ignore')
 print('Tensorflow version ' + str(tf.__version__))
 
 
-consumer_key = 'tYUR3KYI4wDbYzg8ehAiC7oDr'
-consumer_secret = 'e0rQkDv3PcRko7VuogC6YPzJ9QSoHcgAWHI10GW2sGGzFQFOS4'
-access_token = '993737466-ZHo3q228EZ7nWHBpmm0ZN3QJN7zIU5sH0ptBZRJx'
-access_token_secret = 'ZyEjNLdOOJMKwtJm0lFzPOS1Y5SuZuUw95U8RImrtkSoo'
+consumer_key = 'bQOSmEyAPo2ywe21KXrErlW1h'
+consumer_secret = 'YKhevE2JD9IW83yyzPBgXR45QnvmUTzCM9djGXl54LHzqSYhus'
+access_token = '993737466-1cwkpORyF3UlFaE5xyjtMyOyXjjvaSgsxQrRYw79'
+access_token_secret = 'Z6XnbyVvFO1bUnRYTG8wBXFMdOoa24Tt8SBaY7aG9r8N2B'
 
 
 auth = tw.OAuthHandler(consumer_key, consumer_secret)
